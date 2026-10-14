@@ -1,0 +1,15 @@
+# TrustFinanz GmbH (https://www.trustfinanz.ch/)
+> Premier Swiss-based institutional intermediary headquartered at Chamerstrasse 176, 6300 Zug, Switzerland, architecting cross-border transactions across wholesale physical gold, structured trade finance, and commercial real estate.
+
+## Core Divisions & URLs
+- [Homepage, Our Firm & Swiss Governance](https://www.trustfinanz.ch/): Corporate mandate, core values, Swiss Regulatory Compliance & Due Diligence, 4-Step Institutional Onboarding & AML/KYC Protocol (`#governance-protocol`), and Advisor Contact Form (`#contact`).
+- [Trust Gold](https://www.trustfinanz.ch/precious-metals/): Wholesale precious metals facilitation, LBMA & UAE Good Delivery bullion bars, OTC trade orchestration, and Dubai/Swiss refinery supply syndication.
+- [Trust Trade Finance](https://www.trustfinanz.ch/trade-finance/): SBLC structuring & facilitation (SWIFT MT760), Bank Guarantee (BG) coordination, Medium Term Notes (MTN) & Euroclear/Clearstream bond structuring, and project finance.
+- [Trust Real Estate](https://www.trustfinanz.ch/real-estate/): Asset acquisition structuring, commercial yield architectures, premium residential facilitation, and cross-border portfolio diversification.
+- [Market Insights & Research](https://www.trustfinanz.ch/blog/): 9 authoritative institutional briefings on physical gold allocation, OTC bullion orchestration, SBLC MT760, Bank Guarantees, MTNs, Euroclear/Clearstream, and real estate capital frameworks.
+
+## Contact Details
+- Entity: TrustFinanz GmbH
+- Address: Chamerstrasse 176, Zug 6300, Switzerland
+- Telephone: +41 41 508 31 82 / +41 79 644 09 82
+- Email: info@trustfinanz.ch
